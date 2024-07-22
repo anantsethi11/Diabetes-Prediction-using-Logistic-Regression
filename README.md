@@ -15,6 +15,7 @@ o	Visualize performance using a confusion matrix (confusion_matrix from sklearn.
 5.	ROC Curve Analysis:
 o	Compute ROC curve and calculate AUC (Area Under Curve) using roc_curve and auc from sklearn.metrics.
 o	Visualize the ROC curve to assess the model's discrimination ability between diabetes and non-diabetes cases.
+
 Conclusion
 The logistic regression model achieved an accuracy of Model Accuracy 75% on the test set. The confusion matrix heatmap visually represents the model's performance in predicting diabetes outcomes. Additionally, the ROC curve illustrates the trade-off between sensitivity (true positive rate) and specificity (true negative rate) across different threshold settings.
 This script serves as a practical example of using logistic regression for binary classification tasks and demonstrates essential steps in model evaluation and performance visualization.
